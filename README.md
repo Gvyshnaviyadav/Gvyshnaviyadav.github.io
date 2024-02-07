@@ -30,12 +30,12 @@
   &square; **hs101**:*'Dr. Sabiha Hashami'*
 >autumn semester
   
- - **cs102**: *'Dr. Clint Pazhayidam George'* [coursewebpage](https://clintpgeorge.github.io/cs-102/spring-2023/)
- - **ma102**:*'Dr. Kalpesh Jayantilal Haria'*
- - **bio101**:*'Dr. Sreenath Balakrishnan'*
- - **no100**:*'santhosh'*
- - **ee101**:*'Dr. Apeksha Madhukar'*
- - **me102**:'*Dr. Arindam Das'*
+ 1. **cs102**: *'Dr. Clint Pazhayidam George'* [coursewebpage](https://clintpgeorge.github.io/cs-102/spring-2023/)
+ 2.**ma102**:*'Dr. Kalpesh Jayantilal Haria'*
+ 3. **bio101**:*'Dr. Sreenath Balakrishnan'*
+ 4. **no100**:*'santhosh'*
+ 5. **ee101**:*'Dr. Apeksha Madhukar'*
+ 6. **me102**:'*Dr. Arindam Das'*
 ## Hobbies
  - watching movies 
  -  photography
