@@ -21,12 +21,19 @@
 >spring semester
 
   &square;**cs101** :Dr. *Clint Pazhayidam George*:    [coursewebpage](https://clintpgeorge.github.io/cs-101/autumn-2021/)
+ 
   &square; **ma101**:*Dr. Sandipan De; Dr. Shiv Parsad*
+  
   &square;**me101**:*Dr. Priyabrata Sahoo*
+  
   &square;**cs100**:*Dr. Divya Padmanabhan* 
+  
   &square;**ch101**:*Dr. E. Siva Subramaniam Iyer*
+  
   &square; **ch102**:*Dr. Raja Mitra* 
+ 
  &square;**elpp**:'*Neerja raghavan'*
+  
   &square; **hs101**:*'Dr. Sabiha Hashami'*
 >autumn semester
   
