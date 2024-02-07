@@ -20,21 +20,21 @@
 ## Course@IITGoa
 >spring semester
 
-  &square;**cs101** :Dr. *Clint Pazhayidam George*:    [coursewebpage](https://clintpgeorge.github.io/cs-101/autumn-2021/)
+  &square;**CS101** :Dr. *Clint Pazhayidam George*:    [coursewebpage](https://clintpgeorge.github.io/cs-101/autumn-2021/)
  
-  &square; **ma101**:*Dr. Sandipan De; Dr. Shiv Parsad*
+  &square; **MA101**:*Dr. Sandipan De; Dr. Shiv Parsad*
   
-  &square;**me101**:*Dr. Priyabrata Sahoo*
+  &square;**ME101**:*Dr. Priyabrata Sahoo*
   
-  &square;**cs100**:*Dr. Divya Padmanabhan* 
+  &square;**CS100**:*Dr. Divya Padmanabhan* 
   
-  &square;**ch101**:*Dr. E. Siva Subramaniam Iyer*
+  &square;**CH101**:*Dr. E. Siva Subramaniam Iyer*
   
-  &square; **ch102**:*Dr. Raja Mitra* 
+  &square; **CH102**:*Dr. Raja Mitra* 
  
- &square;**elpp**:'*Neerja raghavan'*
+ &square;**ELPP**:'*Neerja raghavan'*
   
-  &square; **hs101**:*'Dr. Sabiha Hashami'*
+  &square; **HS101**:*'Dr. Sabiha Hashami'*
 >autumn semester
   
  1. **cs102**: *'Dr. Clint Pazhayidam George'* [coursewebpage](https://clintpgeorge.github.io/cs-102/spring-2023/)
